@@ -19,11 +19,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/screenshot.png)
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://j-phillips-git.github.io/fem-meet-landing-page/)
 
 ### Built with
 
